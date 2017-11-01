@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1506189810 source:c:\users\martin\desktop\haldclut_to_cube\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<sstream>
+	<string>
+	"IL/il.h"
+	"CubeLUT.h"
+
+1506079364 c:\users\martin\desktop\haldclut_to_cube\include\il\il.h
+	<stdio.h>
+	<limits.h>
+	<wchar.h>
+
+1506267564 source:c:\users\martin\desktop\haldclut_to_cube\cubelut.cpp
+	"CubeLUT.h"
+	<iostream>
+	<sstream>
+
+1506267511 c:\users\martin\desktop\haldclut_to_cube\cubelut.h
+	<string>
+	<vector>
+	<fstream>
+
